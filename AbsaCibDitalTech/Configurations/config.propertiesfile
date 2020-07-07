@@ -1,0 +1,13 @@
+	public String baseURL ="http://www.way2automation.com/angularjs-protractor/webtables/";
+	public static WebDriver driver;
+	public static String User;
+	public static String firstName="FName1";
+	public static String lastName="LName1";
+	public static String userName="User1";
+	public static String password= "Pass1";
+	public static String CustomerA="CompanyAAA";
+	//public static String typeCustomerB="";
+	public static String RoleAdmin="Admin";
+	public static String RoleCust="";
+	public static String Email="Admin@Mail.com";
+	public static String phone="082555";
